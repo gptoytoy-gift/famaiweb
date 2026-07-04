@@ -1,0 +1,452 @@
+[
+  {
+    "code": "BNC600",
+    "name": "YZF-R15",
+    "cc": 155.09,
+    "year": 2024,
+    "cost": 99200,
+    "vat": 6944,
+    "total": 106144,
+    "retail_price": 118000
+  },
+  {
+    "code": "BNC900",
+    "name": "YZF-R15",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 99200,
+    "vat": 6944,
+    "total": 106144,
+    "retail_price": 118000
+  },
+  {
+    "code": "BNCA00",
+    "name": "YZF-R15",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 116500,
+    "vat": 8155,
+    "total": 124655,
+    "retail_price": 138700
+  },
+  {
+    "code": "B7D600",
+    "name": "MT-15",
+    "cc": 155.09,
+    "year": 2024,
+    "cost": 88700,
+    "vat": 6209,
+    "total": 94909,
+    "retail_price": 101000
+  },
+  {
+    "code": "B1V800",
+    "name": "XSR155",
+    "cc": 155.09,
+    "year": 2023,
+    "cost": 84100,
+    "vat": 5887,
+    "total": 89987,
+    "retail_price": 96600
+  },
+  {
+    "code": "B1V900",
+    "name": "XSR155",
+    "cc": 155.09,
+    "year": 2024,
+    "cost": 84100,
+    "vat": 5887,
+    "total": 89987,
+    "retail_price": 96600
+  },
+  {
+    "code": "BEVE00",
+    "name": "MT-03",
+    "cc": 320.6,
+    "year": 2024,
+    "cost": 164300,
+    "vat": 11501,
+    "total": 175801,
+    "retail_price": 196500
+  },
+  {
+    "code": "B3MA00",
+    "name": "WR155R",
+    "cc": 155.09,
+    "year": 2022,
+    "cost": 99900,
+    "vat": 6993,
+    "total": 106893,
+    "retail_price": 119000
+  },
+  {
+    "code": "B2XW00",
+    "name": "YZF-R3",
+    "cc": 320.6,
+    "year": 2024,
+    "cost": 178000,
+    "vat": 12460,
+    "total": 190460,
+    "retail_price": 208200
+  },
+  {
+    "code": "BRA900",
+    "name": "YZF-R3",
+    "cc": 320.6,
+    "year": 2025,
+    "cost": 178000,
+    "vat": 12460,
+    "total": 190460,
+    "retail_price": 208200
+  },
+  {
+    "code": "BKF600",
+    "name": "Fazzio",
+    "cc": 124.96,
+    "year": 2025,
+    "cost": 44400,
+    "vat": 3108,
+    "total": 47508,
+    "retail_price": 50900
+  },
+  {
+    "code": "BKF700",
+    "name": "Fazzio",
+    "cc": 124.96,
+    "year": 2025,
+    "cost": 46200,
+    "vat": 3234,
+    "total": 49434,
+    "retail_price": 52900
+  },
+  {
+    "code": "BKFB00",
+    "name": "Fazzio",
+    "cc": 124.96,
+    "year": 2026,
+    "cost": 43500,
+    "vat": 3045,
+    "total": 46545,
+    "retail_price": 49900
+  },
+  {
+    "code": "BJK500",
+    "name": "Grand Filano Hybrid",
+    "cc": 124.96,
+    "year": 2024,
+    "cost": 56600,
+    "vat": 3962,
+    "total": 60562,
+    "retail_price": 64700
+  },
+  {
+    "code": "BJK600",
+    "name": "Grand Filano Hybrid (ABS)",
+    "cc": 124.96,
+    "year": 2024,
+    "cost": 60500,
+    "vat": 4235,
+    "total": 64735,
+    "retail_price": 69200
+  },
+  {
+    "code": "BJK900",
+    "name": "Grand Filano Hybrid (ABS)",
+    "cc": 124.96,
+    "year": 2024,
+    "cost": 68000,
+    "vat": 4760,
+    "total": 72760,
+    "retail_price": 77900
+  },
+  {
+    "code": "BJKA00",
+    "name": "Grand Filano Hybrid",
+    "cc": 124.96,
+    "year": 2025,
+    "cost": 56600,
+    "vat": 3962,
+    "total": 60562,
+    "retail_price": 64700
+  },
+  {
+    "code": "BJKB00",
+    "name": "Grand Filano Hybrid (ABS)",
+    "cc": 124.96,
+    "year": 2025,
+    "cost": 60500,
+    "vat": 4235,
+    "total": 64735,
+    "retail_price": 69200
+  },
+  {
+    "code": "BJKC00",
+    "name": "Grand Filano Hybrid",
+    "cc": 124.96,
+    "year": 2026,
+    "cost": 56600,
+    "vat": 3962,
+    "total": 60562,
+    "retail_price": 64700
+  },
+  {
+    "code": "BJKD00",
+    "name": "Grand Filano Hybrid (ABS)",
+    "cc": 124.96,
+    "year": 2026,
+    "cost": 60500,
+    "vat": 4235,
+    "total": 64735,
+    "retail_price": 69200
+  },
+  {
+    "code": "BTF100",
+    "name": "NMAX",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 85000,
+    "vat": 5950,
+    "total": 90950,
+    "retail_price": 98500
+  },
+  {
+    "code": "BTM100",
+    "name": "NMAX",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 97900,
+    "vat": 6853,
+    "total": 104753,
+    "retail_price": 113500
+  },
+  {
+    "code": "BTM200",
+    "name": "NMAX",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 97900,
+    "vat": 6853,
+    "total": 104753,
+    "retail_price": 113500
+  },
+  {
+    "code": "BTF200",
+    "name": "NMAX",
+    "cc": 155.09,
+    "year": 2026,
+    "cost": 85000,
+    "vat": 5950,
+    "total": 90950,
+    "retail_price": 98500
+  },
+  {
+    "code": "BTF300",
+    "name": "NMAX",
+    "cc": 155.09,
+    "year": 2026,
+    "cost": 92800,
+    "vat": 6496,
+    "total": 99296,
+    "retail_price": 107500
+  },
+  {
+    "code": "BKAT00",
+    "name": "XMAX",
+    "cc": 292.26,
+    "year": 2025,
+    "cost": 153100,
+    "vat": 10717,
+    "total": 163817,
+    "retail_price": 176100
+  },
+  {
+    "code": "BKAV00",
+    "name": "XMAX",
+    "cc": 292.26,
+    "year": 2025,
+    "cost": 153100,
+    "vat": 10717,
+    "total": 163817,
+    "retail_price": 176100
+  },
+  {
+    "code": "DR9200",
+    "name": "XMAX",
+    "cc": 292.26,
+    "year": 2026,
+    "cost": 153100,
+    "vat": 10717,
+    "total": 163817,
+    "retail_price": 176100
+  },
+  {
+    "code": "DR9400",
+    "name": "XMAX",
+    "cc": 292.26,
+    "year": 2026,
+    "cost": 167700,
+    "vat": 11739,
+    "total": 179439,
+    "retail_price": 193000
+  },
+  {
+    "code": "BKAW00",
+    "name": "XMAX",
+    "cc": 292.26,
+    "year": 2026,
+    "cost": 176000,
+    "vat": 12320,
+    "total": 188320,
+    "retail_price": 202500
+  },
+  {
+    "code": "BWR100",
+    "name": "AEROX 155 (ABS Version)",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 72300,
+    "vat": 5061,
+    "total": 77361,
+    "retail_price": 85900
+  },
+  {
+    "code": "BWR200",
+    "name": "AEROX 155 (ABS Version)",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 72300,
+    "vat": 5061,
+    "total": 77361,
+    "retail_price": 85900
+  },
+  {
+    "code": "B6FS00",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2024,
+    "cost": 36000,
+    "vat": 2520,
+    "total": 38520,
+    "retail_price": 41200
+  },
+  {
+    "code": "B6FT00",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2024,
+    "cost": 39000,
+    "vat": 2730,
+    "total": 41730,
+    "retail_price": 44900
+  },
+  {
+    "code": "B6FU00",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2024,
+    "cost": 40800,
+    "vat": 2856,
+    "total": 43656,
+    "retail_price": 46900
+  },
+  {
+    "code": "B6FV00",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2024,
+    "cost": 42400,
+    "vat": 2968,
+    "total": 45368,
+    "retail_price": 48700
+  },
+  {
+    "code": "B6FW00",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2024,
+    "cost": 43400,
+    "vat": 3038,
+    "total": 46438,
+    "retail_price": 49900
+  },
+  {
+    "code": "DT0100",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2025,
+    "cost": 36000,
+    "vat": 2520,
+    "total": 38520,
+    "retail_price": 41200
+  },
+  {
+    "code": "DT0200",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2025,
+    "cost": 39000,
+    "vat": 2730,
+    "total": 41730,
+    "retail_price": 44900
+  },
+  {
+    "code": "DT0300",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2025,
+    "cost": 40800,
+    "vat": 2856,
+    "total": 43656,
+    "retail_price": 46900
+  },
+  {
+    "code": "DT0400",
+    "name": "FINN",
+    "cc": 114.0,
+    "year": 2025,
+    "cost": 42400,
+    "vat": 2968,
+    "total": 45368,
+    "retail_price": 48700
+  },
+  {
+    "code": "D18100",
+    "name": "PG-1",
+    "cc": 114.0,
+    "year": 2025,
+    "cost": 50500,
+    "vat": 3535,
+    "total": 54035,
+    "retail_price": 57500
+  },
+  {
+    "code": "BWK300",
+    "name": "Exciter 155",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 69800,
+    "vat": 4886,
+    "total": 74686,
+    "retail_price": 79500
+  },
+  {
+    "code": "BWK400",
+    "name": "Exciter 155",
+    "cc": 155.09,
+    "year": 2025,
+    "cost": 69800,
+    "vat": 4886,
+    "total": 74686,
+    "retail_price": 79500
+  },
+  {
+    "code": "B9FC00",
+    "name": "SR400",
+    "cc": 399.48,
+    "year": 2025,
+    "cost": 255800,
+    "vat": 17906,
+    "total": 273706,
+    "retail_price": 298000
+  }
+]
